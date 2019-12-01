@@ -65,7 +65,7 @@ Furthermore note that this app contains only the following supported types of Go
 
 ![](screenshots/img6.jpg)
 
-7)  After the new POI has been selected, we can view all the desired information about it.
+7) After the new POI has been selected, we can view all the desired information about it.
 
 ![](screenshots/img7.jpg)
 
